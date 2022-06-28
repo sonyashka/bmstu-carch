@@ -1,0 +1,5 @@
+\global \c@tocdepth 2\relax 
+\global \c@secnumdepth 1\relax 
+~\hfill \textnormal {Страница}\par 
+\babel@toc {russian}{}
+\contentsline {chapter}{\numberline {1}Код программы}{2}{chapter.1}%
